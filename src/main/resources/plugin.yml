@@ -1,0 +1,4 @@
+name: ItemBuilder
+version: '${project.version}'
+main: me.ilikesarcasm.itembuilder.ItemBuilder
+api-version: 1.19
